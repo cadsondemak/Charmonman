@@ -1,6 +1,6 @@
 {
 .appVersion = "1131";
-copyright = "Copyright © 2018 by Cadson Demak Co.,Ltd.. All rights reserved.";
+copyright = "Copyright (c) 2018 by Cadson Demak Co.,Ltd.. All rights reserved.";
 customParameters = (
 {
 name = vendorID;
@@ -81,7 +81,7 @@ z
 );
 }
 );
-date = "2018-03-18 09:47:09 +0000";
+date = "2018-05-14 15:07:46 +0000";
 designer = "Ekaluck Peanpanawate";
 designerURL = www.ekaluck.com;
 familyName = Charmonman;
@@ -191,53 +191,6 @@ value = 20;
 }
 );
 descender = -250;
-guideLines = (
-{
-position = "{292, 489}";
-},
-{
-alignment = right;
-angle = 80;
-position = "{41, 294}";
-},
-{
-position = "{321, -264}";
-},
-{
-position = "{321, -334}";
-},
-{
-position = "{329, -774}";
-},
-{
-position = "{62, 578}";
-},
-{
-alignment = right;
-angle = 80;
-position = "{341, 294}";
-},
-{
-alignment = right;
-angle = 80;
-position = "{212, 294}";
-},
-{
-position = "{62, 923}";
-},
-{
-position = "{322, 857}";
-},
-{
-position = "{82, 1001}";
-},
-{
-position = "{326, 721}";
-},
-{
-position = "{82, 1026}";
-}
-);
 id = "4C458150-A1D2-4ED7-A293-C8767657F79E";
 weightValue = 400;
 xHeight = 420;
@@ -296,45 +249,6 @@ value = 20;
 }
 );
 descender = -250;
-guideLines = (
-{
-position = "{321, 96}";
-},
-{
-position = "{292, 489}";
-},
-{
-alignment = right;
-angle = 80;
-position = "{50, 294}";
-},
-{
-position = "{329, -264}";
-},
-{
-position = "{329, -774}";
-},
-{
-position = "{62, 578}";
-},
-{
-alignment = right;
-angle = 80;
-position = "{237, 294}";
-},
-{
-position = "{62, 923}";
-},
-{
-position = "{62, 873}";
-},
-{
-position = "{321, -334}";
-},
-{
-position = "{152, 1700}";
-}
-);
 id = "73F3E0E0-4CEF-4E72-8F22-4B031C019FE7";
 userData = {
 GSCornerRadius = 15;
@@ -80329,7 +80243,7 @@ note = "saraUee-thai.narrow";
 {
 color = 4;
 glyphname = "nikhahit-thai";
-lastChange = "2018-03-18 21:29:19 +0000";
+lastChange = "2018-05-14 15:24:33 +0000";
 layers = (
 {
 anchors = (
@@ -80347,35 +80261,35 @@ paths = (
 {
 closed = 1;
 nodes = (
-"49 557 OFFCURVE",
-"94 581 OFFCURVE",
-"99 633 CURVE SMOOTH",
-"103 674 OFFCURVE",
-"76 713 OFFCURVE",
-"22 713 CURVE SMOOTH",
-"-27 713 OFFCURVE",
-"-68 681 OFFCURVE",
-"-72 634 CURVE SMOOTH",
-"-76 589 OFFCURVE",
-"-44 557 OFFCURVE",
-"6 557 CURVE SMOOTH"
+"55 570 OFFCURVE",
+"101 590 OFFCURVE",
+"101 645 CURVE SMOOTH",
+"101 679 OFFCURVE",
+"76 704 OFFCURVE",
+"30 713 CURVE",
+"-37 700 OFFCURVE",
+"-73 669 OFFCURVE",
+"-73 621 CURVE SMOOTH",
+"-73 589 OFFCURVE",
+"-49 567 OFFCURVE",
+"-1 557 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"-20 587 OFFCURVE",
-"-35 605 OFFCURVE",
-"-32 634 CURVE SMOOTH",
-"-29 663 OFFCURVE",
-"-11 683 OFFCURVE",
-"19 683 CURVE SMOOTH",
-"49 683 OFFCURVE",
-"62 662 OFFCURVE",
-"59 634 CURVE SMOOTH",
-"56 608 OFFCURVE",
-"40 587 OFFCURVE",
-"9 587 CURVE SMOOTH"
+"-23 597 OFFCURVE",
+"-32 607 OFFCURVE",
+"-32 623 CURVE SMOOTH",
+"-32 658 OFFCURVE",
+"-13 671 OFFCURVE",
+"24 683 CURVE",
+"51 674 OFFCURVE",
+"61 662 OFFCURVE",
+"61 644 CURVE SMOOTH",
+"61 611 OFFCURVE",
+"40 598 OFFCURVE",
+"5 587 CURVE"
 );
 }
 );
@@ -80389,7 +80303,7 @@ position = "{-16, 489}";
 },
 {
 name = top;
-position = "{-25, 718}";
+position = "{-25, 722}";
 }
 );
 layerId = "73F3E0E0-4CEF-4E72-8F22-4B031C019FE7";
@@ -80397,35 +80311,35 @@ paths = (
 {
 closed = 1;
 nodes = (
-"1 553 OFFCURVE",
-"50 590 OFFCURVE",
-"53 644 CURVE SMOOTH",
-"55 690 OFFCURVE",
-"24 717 OFFCURVE",
-"-25 717 CURVE SMOOTH",
-"-84 717 OFFCURVE",
-"-127 677 OFFCURVE",
-"-131 628 CURVE SMOOTH",
-"-135 584 OFFCURVE",
-"-104 553 OFFCURVE",
-"-54 553 CURVE SMOOTH"
+"2 561 OFFCURVE",
+"58 593 OFFCURVE",
+"58 650 CURVE SMOOTH",
+"58 693 OFFCURVE",
+"23 710 OFFCURVE",
+"-25 721 CURVE",
+"-87 711 OFFCURVE",
+"-136 675 OFFCURVE",
+"-136 623 CURVE SMOOTH",
+"-136 583 OFFCURVE",
+"-101 562 OFFCURVE",
+"-54 553 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"-64 598 OFFCURVE",
-"-77 608 OFFCURVE",
-"-74 632 CURVE SMOOTH",
-"-71 658 OFFCURVE",
-"-53 672 OFFCURVE",
-"-32 672 CURVE SMOOTH",
-"-15 672 OFFCURVE",
-"-2 662 OFFCURVE",
-"-5 640 CURVE SMOOTH",
-"-8 616 OFFCURVE",
-"-26 598 OFFCURVE",
-"-48 598 CURVE SMOOTH"
+"-63 603 OFFCURVE",
+"-79 609 OFFCURVE",
+"-79 628 CURVE SMOOTH",
+"-79 659 OFFCURVE",
+"-55 671 OFFCURVE",
+"-32 676 CURVE",
+"-16 671 OFFCURVE",
+"0 665 OFFCURVE",
+"0 647 CURVE SMOOTH",
+"0 620 OFFCURVE",
+"-24 603 OFFCURVE",
+"-48 598 CURVE"
 );
 }
 );
